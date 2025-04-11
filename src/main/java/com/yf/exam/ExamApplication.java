@@ -33,7 +33,7 @@ public class ExamApplication implements WebMvcConfigurer {
 		String ip = InetAddress.getLocalHost().getHostAddress();
 		String port = env.getProperty("server.port");
 		String path = env.getProperty("server.servlet.context-path");
-		String test;
+
 
 
 
