@@ -39,7 +39,7 @@ public class ExamApplication implements WebMvcConfigurer {
 
 		// 未配置默认空白
 		if(path == null){
-			path = "";
+			path = "11";
 		}
 
 
